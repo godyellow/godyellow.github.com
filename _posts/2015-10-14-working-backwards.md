@@ -30,3 +30,8 @@ tags: [Amazon]
 这时候，所有的团队就对我们将要构建的产品有了共同的预期。
 
 翻译自 [Working Backwards](http://www.allthingsdistributed.com/2006/11/working_backwards.html)
+
+这里有更多的资料解释**Working Backwards**：
+
+1. [Ian McAllister的精彩quora回答](https://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management/answer/Ian-McAllister)给出了一个新闻稿大纲。
+2. [Amazon Product Management, Working Backwards](http://brendansterne.com/2013/11/21/amazon-product-management-working-backwards/)比较了Working Backwards和Lean Startup的区别
